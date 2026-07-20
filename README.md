@@ -15,7 +15,7 @@ Medellín, Colombia 🇨🇴
 - 🗄️ Databases: PostgreSQL, MySQL, SQL Server, MongoDB
 - ☁️ Cloud & DevOps: AWS, Docker, GitHub Actions CI/CD
 - 🤖 AI-native workflow: **Claude Code, Cursor, Copilot** daily + Anthropic/OpenAI SDK integrations (function calling, agents, document pipelines)
-- 🎓 Systems Engineering @ Universidad de Antioquia (graduating Nov 2026)
+- 🎓 Systems Engineering @ Universidad de Antioquia
 
 ### Featured projects
 
